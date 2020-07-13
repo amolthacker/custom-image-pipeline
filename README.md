@@ -10,7 +10,7 @@ Baking and sharing custom layered machine images across separate infrastructure 
 ![CICDPipeline](images/cevmss-cicd.png)
 
 
-## Production considerations
+## Production Considerations
 
  * Blue-green deployments
  * Store terraform state in Azure / etcd
